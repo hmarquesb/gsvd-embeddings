@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.npz
+pets/
+mnist/
+results/
+submission.csv
+.DS_Store
+.venv/
